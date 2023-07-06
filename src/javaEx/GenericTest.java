@@ -22,6 +22,7 @@ public class GenericTest {
 		
 		printAll(productList);
 //		printAll(tvList); // printAll의 타입 리스트가 다름
+		
 	}
 	public static void printAll(ArrayList<Product> list) {
 		for(Product p : list)

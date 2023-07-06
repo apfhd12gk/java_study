@@ -26,6 +26,7 @@ public class GenericTest3 {
 		System.out.println("fruitBox-"+fruitBox);
 		System.out.println("appleBox-"+appleBox);
 		System.out.println("grapeBox-"+grapeBox);
+		
 	}
 
 }

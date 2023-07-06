@@ -7,6 +7,7 @@ public class GenericTest2 {
 		
 		Student s = map.get("자바왕");
 		System.out.println(s.name);
+		
 	}
 }
 class Student {
